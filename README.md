@@ -1,8 +1,8 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** …
-- **Código estudiantil:** …
-- **Usuario de GitHub:** …
+- **Nombre:** EMILTON MENA ACEVEDO
+- **Código estudiantil:** 1
+- **Usuario de GitHub:** EmiltonMenaA
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
